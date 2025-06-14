@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.2.2",
+	"VersionName": "1.2.3",
 	"FriendlyName": "AutomatedArtifacts",
 	"Description": "Automated Somersloops and Mercer Spheres",
 	"Category": "Modding",
@@ -18,9 +18,9 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.8.0"
+			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "1.2.2",
-	"GameVersion": ">=365306"
+	"SemVersion": "1.2.3",
+	"GameVersion": ">=416835"
 }
